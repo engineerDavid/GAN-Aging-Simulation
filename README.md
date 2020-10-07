@@ -10,8 +10,12 @@ For this project we will be using a GAN for aging simulation. Why aging simulati
 
 
 [1] X. Liu, C. Xie, H. Kuang, and X. Ma, “Face Aging Simulation with Deep Convolutional Generative Adversarial Networks,” in 2018 10th International Conference on Measuring Technology and Mechatronics Automation (ICMTMA), Feb. 2018, pp. 220–224, doi: 10.1109/ICMTMA.2018.00060. 
+
 [2] L. Wan, J. Wan, Y. Jin, Z. Tan, and S. Z. Li, “Fine-Grained Multi-Attribute Adversarial Learning for Face Generation of Age, Gender and Ethnicity,” in 2018 International Conference on Biometrics (ICB), Feb. 2018, pp. 98–103, doi: 10.1109/ICB2018.2018.00025. 
+
 [3] G. Antipov, M. Baccouche, and J.-L. Dugelay, “Face aging with conditional generative adversarial networks,” in 2017 IEEE International Conference on Image Processing (ICIP), Sep. 2017, pp. 2089–2093, doi: 10.1109/ICIP.2017.8296650. 
+
 [4]Goldberg, Barbara. “Missing Children in U.S. Nearly Always Make It Home Alive.” Reuters, Thomson Reuters, 26 Apr. 2012, 
-www.reuters.com/article/us-usa-missing-children/missing-children-in-u-s-nearly-always-ma ke-it-home-alive-idUSBRE83P14020120426. 
+www.reuters.com/article/us-usa-missing-children/missing-children-in-u-s-nearly-always-ma ke-it-home-alive-idUSBRE83P14020120426.
+
 [5]“PUBLICATIONS.” NCJRS Abstract - National Criminal Justice Reference Service, www.ncjrs.gov/App/publications/abstract.aspx?ID=130323.

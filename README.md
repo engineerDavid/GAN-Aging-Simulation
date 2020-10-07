@@ -4,6 +4,7 @@ David M., Ryan B., Sharo H.
 Proposal 
 
 A generative adversarial network (GAN), is a type of machine learning that works by making two neural networks compete against each other. Their competition is a zero-sum game, and through multiple runs each neural network gets better at their respective job. The two jobs are that of the generative network and the discriminative network. The generative network attempts to trick the discriminative network into making errors by generating data that increases the error rate. The discriminative network attempts to decrease the error rate, and as a result these two networks help each other improve leading to the discriminative network becoming better at doing its task. 
+
 For this project we will be using a GAN for aging simulation. Why aging simulation? Nearly every year there are 800,000 missing children reported in America. For every child that is not found there is an age progression photo software called Photosketch that a professional artist uses to age the photo. The problem that arises in this process is that in order to create the photo aging process the artist must be skilled and knowledgeable of how children age over the years. In the United States the local law enforcement has access to such a skilled person. Our focus is to make aging simulation more accessible for developing countries which do not have access to this technology or artist by using a GAN.
 
 # References 

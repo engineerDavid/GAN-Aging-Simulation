@@ -1,10 +1,15 @@
 #Aging Simulation using CycleGAN
 
 #How to Run program
+
 1.)Open AgeCycleTrain notebook file in Colab
+
 2.)Download data organized data https://drive.google.com/file/d/1jBl-5eqxHx6vY-_j5GCW7mCHQtajlVnU/view?usp=sharing and upload to google to your google drive in a folder called "Scripts"
+
 3.)Run and allow Colab to access drive folder "Scripts" to access training data
+
 4.)Wait a few hours
+
 5.)Results! (Sometimes when Colab has too much traffic available ram for free users is reduced and you may get an out of ram error. To restart, select "Restart and Run all" in the Runtime menu at the top of Colab)
 
 #Abstract 
